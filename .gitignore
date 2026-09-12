@@ -1,0 +1,14 @@
+/node_modules
+/dist
+/build
+/public
+/src
+/test
+/docs
+/examples
+/scripts
+/tools
+/utils
+/webpack.config.js
+/package-lock.json
+/package.json
